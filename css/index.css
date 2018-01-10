@@ -20,15 +20,15 @@ body{
 }
 
 .page-1-1{ background:url("../img/bg-1.jpg")}
-.page-2-1{ background:url("../img/bg-1.jpg")}
+.page-2-1{ background:url("../img/bg-2.jpg")}
 .page-3-1{ background:url("../img/bg-1.jpg")}
-.page-4-1{ background:url("../img/bg-1.jpg")}
+.page-4-1{ background:url("../img/bg-2.jpg")}
 .page-5-1{ background:url("../img/bg-1.jpg")}
-.page-6-1{ background:url("../img/bg-1.jpg")}
-.page-7-1{ background:url("../img/bg-1.jpg")}
-.page-8-1{ background:url("../img/bg-1.jpg")}
-.page-9-1{ background:url("../img/bg-1.jpg")}
-.page-10-1{ background:url("../img/bg-1.jpg")}
+.page-6-1{ background:url("../img/bg-2.jpg")}
+.page-7-1{ background:url("../img/bg-3.jpg")}
+.page-8-1{ background:url("../img/bg-3.jpg")}
+.page-9-1{ background:url("../img/bg-3.jpg")}
+.page-10-1{ background:url("../img/bg-4.jpg")}
 
 .play_music,.img_play_music,.img_pause_music{ 
 	width:30px;
